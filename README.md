@@ -110,6 +110,8 @@ Wait for the bot's reply.
 ## Notes for Beginners
 - External CSS & JS: The HTML file doesn’t contain inline styling or scripts — all design is in styles.css and all logic in script.js.
 - API Security: Never expose API keys in public projects. This project is for learning only — use a backend for production.
+- 
+---
 Customization:
 - Change colors in styles.css.
 - Switch to another AI model by changing the API URL and parameters in script.js.
